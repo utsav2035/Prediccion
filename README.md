@@ -1,4 +1,3 @@
-
 # Prediccion
 
 Prediccion is an advanced platform designed to help individuals increase their productivity and profitability. Through this platform, they are able to access essential information and services related to particular company’s stock. It provides them with the tools they need to make informed decisions regarding their investing operations. 
@@ -7,9 +6,7 @@ The stock monitoring website is a platform designed to cater to a wide range of 
 
 Prediccion also offers an analysis section that gives information about the latest happenings in the field of stocks.
 
-## Demo Video
 
-[Prediccion](https://youtu.be/J9wPEEFDUvI)
 
 ## Installation
 
